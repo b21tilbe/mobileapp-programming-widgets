@@ -2,4 +2,5 @@
     <string name="app_name">Widgets</string>
     <string name="confirm">Confirm</string>
     <string name="name">Name</string>
+    <string name="text">Please, write your name below:</string>
 </resources>
