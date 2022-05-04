@@ -19,5 +19,5 @@ Nedan kan en kodsnutt bli funnen som visar koduppbyggnaden för en av de ovannä
 
 Bilder läggs i samma mapp som markdown-filen.
 
-![](android.png)
+![](android1.png)
 
